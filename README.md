@@ -24,6 +24,7 @@ In the root directory, run `npm run start`.
 View the application in your browser at `localhost:3000`.
 
 ## Deployment
+https://blessings-pwa-texteditor-r1.onrender.com/
 
 ## Credits
 n/a
